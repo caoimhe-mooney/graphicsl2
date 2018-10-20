@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\caoimhe\documents\graphics\project1\teapot.h(2980): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\caoimhe\documents\graphics\project1\teapot.h(2980): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\project1\teapot.h(5959): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\caoimhe\documents\graphics\project1\teapot.h(5959): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\project1\teapot.h(8938): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\caoimhe\documents\graphics\project1\teapot.h(8938): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\project1\main.cpp(30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\caoimhe\documents\graphics\project1\main.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\caoimhe\documents\graphics\project1\main.cpp(142): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\caoimhe\documents\graphics\project1\main.cpp(146): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\caoimhe\documents\graphics\project1\main.cpp(194): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\project1\main.cpp(201): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\caoimhe\documents\graphics\project1\main.cpp(217): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\caoimhe\documents\graphics\project1\main.cpp(223): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\project1\main.cpp(230): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\caoimhe\documents\graphics\project1\main.cpp(242): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\caoimhe\documents\graphics\project1\main.cpp(294): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Caoimhe\Documents\graphics\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Caoimhe\Documents\graphics\Project1\Debug\Project1.pdb (Partial PDB)

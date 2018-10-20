@@ -1,0 +1,32 @@
+﻿  main.cpp
+c:\users\caoimhe\documents\graphics\project1\teapot.h(2980): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\caoimhe\documents\graphics\project1\teapot.h(2980): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\project1\teapot.h(5959): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\caoimhe\documents\graphics\project1\teapot.h(5959): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\project1\teapot.h(8938): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\caoimhe\documents\graphics\project1\teapot.h(8938): warning C4305: 'initializing': truncation from 'double' to 'float'
+..\main.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\main.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\main.cpp(91): warning C4129: 'C': unrecognized character escape sequence
+..\main.cpp(91): warning C4129: 'D': unrecognized character escape sequence
+..\main.cpp(91): warning C4129: 'g': unrecognized character escape sequence
+..\main.cpp(91): warning C4129: 'P': unrecognized character escape sequence
+..\main.cpp(91): warning C4129: 'S': unrecognized character escape sequence
+..\main.cpp(91): warning C4129: 's': unrecognized character escape sequence
+..\main.cpp(92): warning C4129: 'C': unrecognized character escape sequence
+..\main.cpp(92): warning C4129: 'D': unrecognized character escape sequence
+..\main.cpp(92): warning C4129: 'g': unrecognized character escape sequence
+..\main.cpp(92): warning C4129: 'P': unrecognized character escape sequence
+..\main.cpp(92): warning C4129: 'S': unrecognized character escape sequence
+..\main.cpp(92): warning C4129: 's': unrecognized character escape sequence
+..\main.cpp(140): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+..\main.cpp(144): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+..\main.cpp(182): warning C4305: 'argument': truncation from 'double' to 'float'
+..\main.cpp(189): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  Generating code
+  1 of 188 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Caoimhe\Documents\graphics\Project1\Release\Project1.exe
+  Project1.vcxproj -> C:\Users\Caoimhe\Documents\graphics\Project1\Release\Project1.pdb (Full PDB)
